@@ -85,7 +85,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 💻 Open-Source GitHub Projects
 
-> All open-source repositories below are sorted in **descending order by GitHub Stars_Count** 🌟. Click on any Stars_Badge to visit the official stargazers page for that repository!
+> All open-source repositories below are sorted in **descending order by GitHub_Stars_Count** 🌟. Click on any Stars_Badge to visit the official stargazers page for that repository!
 
 | Repository & Link | GitHub_Stars_Badge | Stars_Count | Description & Core Capability |
 | :--- | :--- | :--- | :--- |
@@ -212,7 +212,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 1. Fork the repo 🍴.
 2. Add/edit entries in `README.md` (follow existing tabular format).
-3. Include: project name, repository link, 1–2 sentence description, and GitHub Stars_Badge.
+3. Include: project name, repository link, 1–2 sentence description, and GitHub_Stars_Badge.
 4. Clearly distinguish complete meeting assistants from transcription/AI building blocks.
 5. Submit PR with a short explanation 🚀.
 
