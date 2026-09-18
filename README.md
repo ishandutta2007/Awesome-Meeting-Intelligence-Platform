@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Meeting-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Meeting-Intelligence-Platform?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Meeting-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Meeting-Intelligence-Platform?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Meeting-Intelligence-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Meeting-Intelligence-Platform?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Meeting-Intelligence-Platform?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -85,9 +85,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 💻 Open-Source GitHub Projects
 
-> All open-source repositories below are sorted in **descending order by GitHub Star Count** 🌟. Click on any star badge to visit the official stargazers page for that repository!
+> All open-source repositories below are sorted in **descending order by GitHub Stars_Count** 🌟. Click on any Stars_Badge to visit the official stargazers page for that repository!
 
-| Repository & Link | GitHub Stars Badge | Star Count | Description & Core Capability |
+| Repository & Link | GitHub_Stars_Badge | Stars_Count | Description & Core Capability |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** ⚡ | <a href="https://github.com/n8n-io/n8n/stargazers"><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="n8n Stars" /></a> | 205,276 | Workflow automation platform useful for automatically sending meeting summaries to CRM, email, Slack, Notion, project-management systems, and other applications. |
 | **[Ollama](https://github.com/ollama/ollama)** 🦙 | <a href="https://github.com/ollama/ollama/stargazers"><img src="https://img.shields.io/github/stars/ollama/ollama?style=social&color=white" alt="Ollama Stars" /></a> | 181,227 | Local LLM runtime useful for private meeting summarization, action-item extraction, classification, and meeting Q&A. |
@@ -212,7 +212,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 1. Fork the repo 🍴.
 2. Add/edit entries in `README.md` (follow existing tabular format).
-3. Include: project name, repository link, 1–2 sentence description, and GitHub star badge.
+3. Include: project name, repository link, 1–2 sentence description, and GitHub Stars_Badge.
 4. Clearly distinguish complete meeting assistants from transcription/AI building blocks.
 5. Submit PR with a short explanation 🚀.
 
