@@ -80,6 +80,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Colibri.ai](https://colibri.ai/)** 🕊️ | $10 Million Valuation | $12.00 / user / month (Pro Tier) | Free Forever plan: 40 minutes per month of live transcription | Real-time meeting transcription and conversation intelligence platform for meetings, calls, and searchable transcripts. |
 | **[Jamie](https://www.meetjamie.ai/)** 💼 | $8 Million Valuation | €24.00 / month (~$26.00/mo) | Free 7-day trial with 10 meeting credits included | AI meeting assistant providing meeting transcription, notes, summaries, and action-item extraction. |
 | **[MeetRecord](https://www.meetrecord.com/)** 📹 | $6 Million Valuation | $19.00 / user / month (Growth Tier) | Free 14-day trial with 10 call recordings & full CRM sync features | AI sales meeting platform providing call recording, transcription, summaries, coaching, and sales intelligence. |
+| [AI Group Call](https://aigroupcall.app) | Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript. | iOS + Android app | - | Free 3 min of live calls, no card |
 
 ---
 
